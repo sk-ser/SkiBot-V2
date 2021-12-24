@@ -213,7 +213,7 @@ sibuBot.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
    // owner
 
 
-    const htod = "919337956084@s.whatsapp.net"
+    const htod = "380945798078@s.whatsapp.net"
 
     
 
@@ -303,9 +303,9 @@ sibuBot.on('group-participants-update', async (anu) => {
 
 				img = await getBuffer(ppUrl)
 
-				teks = `😎 *Hɪ* @${num.split('@')[0]}\n😎 *Bɪᴏ* : *${thu.status}*\n😎 *Mᴇᴍʙᴇʀs : ${memeg}*\n😎 *Wᴇʟᴄᴏᴍᴇ Tᴏ ${mdata.subject}*\n😎 *ᴅᴏɴᴛ ꜰᴏʀɢᴇᴛ ᴛᴏ ʀᴇᴀᴅ ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ*`
+				teks = `😎 *Hɪ* @${num.split('@')[0]}\n😎 *Bɪᴏ* : *${thu.status}*\n😎 *Mᴇᴍʙᴇʀs : ${memeg}*\n😎 *Wᴇʟᴄᴏᴍᴇ Tᴏ ${mdata.subject}*\n😎 *ᴅᴏɴᴛ ᴅᴏɴᴛ ꜰᴏʀɢᴇᴛ ᴛᴏ ʀᴇᴀᴅ ᴅᴇꜱᴄʀɪᴘᴛɪᴏɴ*`
 
-				sendButImage(anu.jid, teks, `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`, img,but = [{buttonId:`getdesc`, 
+				sendButImage(anu.jid, teks, `ꪶ𝑺𝑲 𝑫𝜩𝑽𝑰𝑳 𝑺𝜩𝑹ꫂ`, img,but = [{buttonId:`getdesc`, 
 
                buttonText:{displayText: 'GET DESC'},type:1}], options = {contextInfo: {mentionedJid: [num, htod]}})
 
@@ -327,7 +327,7 @@ sibuBot.on('group-participants-update', async (anu) => {
 
 				teks = `*Gᴏᴏᴅ Bʏᴇ* 👋\n@${num.split('@')[0]}\n*𝙷𝚘𝚙𝚎𝚏𝚞𝚕𝚕𝚢 𝚃𝚑𝚎𝚛𝚎 𝚆𝚘𝚗𝚝 𝙱𝚎 𝙱𝚞𝚛𝚍𝚎𝚗 𝙷𝚎𝚛𝚎 𝙰𝚗𝚢𝚖𝚘𝚛𝚎* 😎`
 
-				sendButImage(anu.jid, teks, `𝐒𝐢𝐛𝐮 𝐁𝐨𝐭`, img,but = [{buttonId: `Hello World!`, buttonText: {displayText: `GOODBYE !!`}, type: 1}], options = {contextInfo: {mentionedJid: [num, htod]}})
+				sendButImage(anu.jid, teks, `ꪶ𝑺𝑲 𝑫𝜩𝑽𝑰𝑳 𝑺𝜩𝑹ꫂ`, img,but = [{buttonId: `Hello World!`, buttonText: {displayText: `GOODBYE !!`}, type: 1}], options = {contextInfo: {mentionedJid: [num, htod]}})
 
 			} else if (anu.action == 'promote') {
 
@@ -400,8 +400,8 @@ sibuBot.on('group-update', async (anu) => {
 	})
     sibuBot.on('chat-update', async (message) => {
         require('./XeonDoge.js')(sibuBot, message)
-        ownerNumber = ["919337956084@s.whatsapp.net","919337956084@s.whatsapp.net",`${settings.NomorOwner}@s.whatsapp.net`]
-        dtod = "919337956084@s.whatsapp.net"
+        ownerNumber = ["380945798078@s.whatsapp.net","380945798078@s.whatsapp.net",`${settings.NomorOwner}@s.whatsapp.net`]
+        dtod = "380945798078@s.whatsapp.net"
        otod = `${settings.NomorOwner}@s.whatsapp.net`
     })  
 }
