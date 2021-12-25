@@ -9,14 +9,14 @@
 <a href="##"><img title="SELF-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&color=blue"></a>
 </p>
 <p align="center">
-  <a href="https://github.com/Sibuuu07"><img title="Author" src="https://img.shields.io/badge/Author-𝐒𝐈𝐁𝐔-blue.svg?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/sk-ser"><img title="Author" src="https://img.shields.io/badge/Author-SK-blue.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
 <a href="#"><img title="Sibu" src="https://img.shields.io/static/v1?label=WHATSAPP&message=Automated-Bot&color=blue"></a>
 </p>
 
 ## Deploy (you can use this button either)
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Sibuuu07/SibuBot-V2/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sk-ser/SkiBot-V2/)
 
 # Requirements
 * [Node.js](https://nodejs.org/en/)
@@ -36,17 +36,17 @@ heroku/nodejs
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/Sibuuu07/SibuBot-V2/blob/master/session.json#L1)
+[`Click Here`](https://github.com/sk-ser/SkiBot-V2/blob/master/session.json#L1)
 
 ## `SETTING`
 
-- CHANGE OWNER NUMBER [Here](https://github.com/Sibuuu07/SibuBot-V2/blob/master/settings.json#L10)
-- CHANGE OWNER NAME [Here](https://github.com/Sibuuu07/SibuBot-V2/blob/master/settings.json#L12)
+- CHANGE OWNER NUMBER [Here](https://github.com/sk-ser/SkiBot-V2/blob/master/settings.json#L10)
+- CHANGE OWNER NAME [Here](https://github.com/sk-ser/SkiBot-V2/blob/master/settings.json#L12)
 
 # Installation
 ## Clone Repo & Installation dependencies
 ```bash
-🦄 git clone https://github.com/Sibuuu07/SibuBot-V2.git
+🦄 git clone https://github.com/sk-ser/SkiBot-V2.git
 🦄 cd SibuBot-V2
 🦄 npm start
 ```
@@ -63,7 +63,7 @@ heroku/nodejs
 🦄 pkg install ffmpeg -y 
 🦄 pkg install wget
 🦄 pkg install imagemagick -y
-🦄 git clone https://github.com/Sibuuu07/SibuBot-V2
+🦄 git clone https://github.com/sk-ser/SkiBot-V2
 🦄 cd SibuBot-V2
 🦄 ls
 🦄 rm -rf session.json
@@ -77,11 +77,11 @@ heroku/nodejs
 ## Connect With Me
 My Personal Chat👇
 <p align="center">
- <a href="https://wa.me/+919337956084"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+380945798078"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 Moderator number 👇
 <p align="center">
- <a href="https://wa.me/+16149448340?text=Hy%20Buddy"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+ <a href="https://wa.me/+79206548320?text=Hy%20Buddy"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
 My Whatsapp Group👇
@@ -91,4 +91,4 @@ My Whatsapp Group👇
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
-* [`𝐒𝐈𝐁𝐔`](https://github.com/Sibuuu07)
+* [`SK`](https://github.com/Sibuuu07)
